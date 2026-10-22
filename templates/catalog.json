@@ -1,0 +1,21 @@
+{
+  "version": "0.1.0",
+  "templates": [
+    {
+      "id": "kinetic-pendulum-v1",
+      "number": 1,
+      "name": "Kinetic Pendulum",
+      "category": "Brand promotion",
+      "status": "approved-concept",
+      "aspectRatio": "9:16",
+      "editable": [
+        "division",
+        "hook",
+        "payoff",
+        "accent",
+        "speed"
+      ],
+      "notes": "Browser recreation; not a source-perfect copy of the earlier rendered MP4."
+    }
+  ]
+}
